@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/QZJLj3mp/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/grow-a-garden-ctrl/SpawnerV3/refs/heads/main/main.lua"))();
